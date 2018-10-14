@@ -5,10 +5,10 @@ We saw a rising need in today's society for quality healthcare via technology. F
 Medic AI has several functions. The Facebook Messenger Chatbot is intended to help users narrow down potential causes of their symptoms so they can make more informed decisions for their approach to illness or discomfort that they may be experiencing. We also implemented two interactive data visualizations that provide greater insight into the availability of drugs and pharmaceuticals in the United States as well as historical trends on mortality. This is all compiled into an accessible, user-friendly website which includes resources through FEMA that provide more information on health case studies using machine learning.
 
 ## How we built it
-###Facebook Messenger Chatbot
+### Facebook Messenger Chatbot
 We used a Node.js back-end along with a Heroku server to implement our Facebook Messenger Chatbot. The Chatbot uses IBM Watson's NLP libraries to actively process user input and direct the user toward medical information and resources.
 
-###Data Visualizations
+### Data Visualizations
 All data visualizations were completed in Tableau using public datasets from the National Center for Biotechnology Information (NCBI) and the National Center for Health Statistics (NCHS). All gradient color schemes and data analysis is fully integrated into Tableau.
 
 ## Challenges we ran into
