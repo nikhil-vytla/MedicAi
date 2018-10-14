@@ -25,4 +25,4 @@ We hope to expand our data visualization beyond the US to offer the same kind of
 
 ## Awards
 HackDuke 2018 Spicy Ramen Challenge Winner
-
+HackDuke 2018 Health & Wellness Track Overall Finalist
