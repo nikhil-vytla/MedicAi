@@ -23,6 +23,6 @@ Coming into this hackathon as a novice team, we had absolutely no experience wit
 ## What's next for MedicAi
 We hope to expand our data visualization beyond the US to offer the same kind of services to other countries. We'd also like to provide more analysis on a case-by-case basis through the chatbot to come up with more accurate healthcare suggestions.
 
-## Prizes
+## Awards
 HackDuke 2018 Spicy Ramen Challenge Winner
 
