@@ -28,5 +28,5 @@ We hope to expand our data visualization beyond the US to offer the same kind of
 ### HackDuke 2018 Wolfram Award
 ### HackDuke 2018 Spicy Ramen Challenge Winner
 
-Made with ♥ in 2018
+Made with ❤ in 2018
 
